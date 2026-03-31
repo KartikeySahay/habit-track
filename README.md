@@ -4,7 +4,7 @@ I created a clean, distraction-free habit tracker that lives entirely in your br
 
 Built as a single HTML file, so you can open it locally, host it anywhere, or drop it into a repo and call it done.
 
----
+----
 
 ## What it does
 
@@ -16,7 +16,7 @@ Built as a single HTML file, so you can open it locally, host it anywhere, or dr
 
 Everything saves automatically to your browser's `localStorage` — no server, no database, no sign-in required.
 
----
+----
 
 ## Getting started
 
